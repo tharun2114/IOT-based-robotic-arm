@@ -10,18 +10,6 @@ Easy integration with future IoT and AI systems
 Project Structure
 Copy code
 
-Robotic-Arm-Automation
-│
-├── src
-│   └── robotic_arm.ino
-│
-├── hardware
-│   └── circuit_connections
-│
-├── docs
-│   └── project_documentation
-│
-└── README.md
 Technologies Used
 Arduino Microcontroller Platform
 Embedded C Programming
